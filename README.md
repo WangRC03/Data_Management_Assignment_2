@@ -1,5 +1,5 @@
 # Airline On-Time Performance Analysis — 2004 Data
-
+![](cover_image.png)
 This project analyzes the patterns and causes of flight delays and cancellations in U.S. domestic airlines.The main goal is to help airlines and airports understand when and why disruptions happen,and to suggest ways to improve on-time performance.
 
 ## Source
